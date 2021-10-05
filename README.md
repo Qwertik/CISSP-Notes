@@ -3,7 +3,9 @@ Notes for CISSP Course
 # Day 1
 # Day 2
 KPI vs KGI = The Key Goal Indicators are the outcome you hope to achieve; the KPI is a metric to let you know how well you’re doing working towards that goal.  
+
 The Key Goal Indicators are the outcome you hope to achieve; the KPI is a metric to let you know how well you’re doing working towards that goal.  
+
 Data Ownership & Custodianship  
 	• Data Owner (often upper management)  
 	– Individual responsible and accountable for the protection and classification of a specific data set  
