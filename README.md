@@ -12,9 +12,11 @@ Data Ownership & Custodianship
 	– The data owner typically delegates most day to-day responsibility such as backup to others (data custodians)  
 	– When using discretionary access control (DAC), the data owner/creator allows or denies access to users or   
 	groups based on an access control list (ACL). SharePoint allows users to control access  
+	
     • Data Custodian (commonly an administrator)  
 	– Individual responsible for implementing and maintaining security controls to meet requirements determined 
 	by data owner  
+	
     • Data Processors (users)  
 	– Individual who accesses the resources within the business  
 	– The user is limited by the security controls put in place by the custodian, which were determined by the 
