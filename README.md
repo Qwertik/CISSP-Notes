@@ -71,17 +71,17 @@ Due Diligence: Duty of a firm's directors and officers to act prudently (profess
 – Ongoing examination of facts and taking actions
 – Evaluating risks using best practices to manage them
 
-Reporting of Data Breaches
-• Event – Something of note which happened
-• Incident – Negative Impact (May Report)
+Reporting of Data Breaches  
+• Event – Something of note which happened  
+• Incident – Negative Impact (May Report)  
 – A security event that compromises the integrity, confidentiality or availability of an asset or violates security 
-policy
-• Breach – Unauthorized Access (Sometimes Report)
+policy  
+• Breach – Unauthorized Access (Sometimes Report)  
 – An incident that results in the disclosure or potential exposure of private or confidential data to unauthorized 
-parties
+parties  
 – The number of reported data security breaches continues to increase while becoming more diverse and 
-sophisticated
-• Data Disclosure – Confirmed Loss of Control (Often Report)
+sophisticated  
+• Data Disclosure – Confirmed Loss of Control (Often Report)  
 – A breach where data was actually disclosed (not just exposed) to an unauthorized party has been confirmed
 Organizations are often legally responsible to report data breaches or disclosure to the proper 
 authorities
@@ -92,25 +92,25 @@ authorities
 Types of Statutory (Written) Law:
 • Administrative law (or regulatory law) defines regulatory standards (mandatory regulations) for the 
 performance and the conduct of public bodies including both private companies and federal 
-agencies
+agencies  
 • Civil or Tort law deals with legal suits over wrongs against individuals or companies that result 
 in damages or loss. Cases are initiated by private parties and the defendant is found “liable” or “not 
-liable” for damages and court costs.
+liable” for damages and court costs.  
 • Criminal law is about crimes against society. Violations of these government laws is enforced by the 
 state and investigated by law enforcement. If the defendant is guilty it provides for punishment 
-by imprisonment and fines
-• Intellectual Property law protects products of the mind from piracy and license violation
+by imprisonment and fines  
+• Intellectual Property law protects products of the mind from piracy and license violation  
 
 Licensing & Intellectual Property Rights
-• Intellectual property is an intangible (non-physical) asset that is the result of creativity (the use of intellect)
+• Intellectual property is an intangible (non-physical) asset that is the result of creativity (the use of intellect)  
 • Intellectual property is recognized as a protected asset in the U.S. copyright law. This also extends to 
-electronic formats.
-• Copyright ©️ law guarantees the creators of “original works of authorship” protection against the unauthorized duplication of their work (music, movies, paintings) for up to 70 years after death.
+electronic formats.  
+• Copyright ©️ law guarantees the creators of “original works of authorship” protection against the unauthorized duplication of their work (music, movies, paintings) for up to 70 years after death.  
 • Trade secrets are confidential business secrets (intellectual property) not released to outsiders. If lost or stolen by industrial espionage, this proprietary information would aid others and severely damage the 
-business. Can be protected forever
+business. Can be protected forever  
 • Trademark®️ is a unique design or phrase used to represent or identify products or services. Can be 
-protected for a set period of time
-• Patent is used to protect creators of inventions (tangible
+protected for a set period of time  
+• Patent is used to protect creators of inventions (tangible  
 
 In the US: the “fair use” doctrine permits some copying and distribution with limitations –	In the US: the “fair use” doctrine permits some copying and distribution with limitations.
 
